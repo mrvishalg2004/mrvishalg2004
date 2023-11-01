@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrvishalg2004&label=Profile%20views&color=0e75b6&style=flat" alt="mrvishalg2004" /> </p>
 
-- 🌱 I’m currently learning **Full strack, React Js , Flutter**
+- 🌱 I’m currently learning **Python with Machine Learning, AIML , Flutter**
 
 - 💬 Ask me about **App development**
 
