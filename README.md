@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python with Machine Learning, AIML ,**
 
-- 💬 Ask me about **App development**
+- 💬 Ask me about **App development,Web development**
 
 - 📫 How to reach me **vishalgolhar10@gmail.com**
 
